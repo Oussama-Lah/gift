@@ -10,3 +10,9 @@ showBtn.addEventListener("click", function () {
 hideBtn.addEventListener("click", function () {
   gift.style.display = "none";
 });
+
+// this is the solution in freeCodeCamp;
+
+// buttonElement.addEventListener("click", function () {
+//   gift.classList.remove("hide");
+// });
