@@ -1,0 +1,11 @@
+body {
+  text-align: center;
+}
+/* we used display none so it can stay hidden to show it we use block  */
+.hide {
+  display: none;
+}
+
+#gift-box {
+  font-size: 5em;
+}
